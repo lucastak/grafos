@@ -1,5 +1,5 @@
-# Projeto com estrutura base e com exemplos de grafos.
-Esse projeto já está com uma config base para iniciar as aulas, basta ter o Node no computador. Também há nele questões de um trabalho avaliativo.
+# Grafos.
+Esse repositório possui alguns problemas solucionados com grafos como inverter uma árvore binária, mapear componentes fortemente conectados etc.
 
 ## instale as dependências
 ```bash
