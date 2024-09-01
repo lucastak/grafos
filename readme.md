@@ -3,7 +3,7 @@ Esse projeto já está com uma config base para iniciar as aulas, basta ter o No
 
 ## para transformar ts para js - npx tsc arquivo
 
-- Entre na pasta src e na pasta do pattern
+- Entre na pasta src e na pasta desejada
 ```bash
     cd src
     cd invertBinaryTree
