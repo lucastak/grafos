@@ -1,0 +1,1 @@
+![plot](./file/question1.jpeg)
