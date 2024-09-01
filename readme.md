@@ -6,7 +6,7 @@ Esse repositório possui alguns problemas solucionados com grafos como inverter 
     yarn
 ```
 
-## para transformar ts para js - npx tsc arquivo
+## para transformar ts para js
 
 - Entre na pasta src e na pasta desejada
 ```bash
