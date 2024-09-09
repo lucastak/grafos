@@ -55,7 +55,7 @@ export class Graph {
       const currentNode = stack.pop()!;
       console.log(`${currentNode} (${this.nodeInfo[currentNode].discovered}/${this.nodeInfo[currentNode].finished})`);
     }
-}
+  }
 
 
   private transposeGraph(): { [key: string]: string[] } {
@@ -131,5 +131,5 @@ export class Graph {
       const { discovered, finished } = this.nodeInfo[node];
       console.log(`${node} (${discovered}/${finished})`);
     }
-}
+  }
 }
